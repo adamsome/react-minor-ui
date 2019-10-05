@@ -2,9 +2,14 @@
   "name": "react-minor-ui",
   "version": "1.0.0",
   "description": "react-minor-ui React component",
-  "author": "",
-  "license": "MIT",
-  "repository": "",
+  "author": {
+    "name": "Adam Some"
+  },
+  "repository": {
+    "url": "https://github.com/adamsome/react-minor-ui",
+    "type": "git"
+  },
+  "homepage": "https://adamsome.github.io/react-minor-ui",
   "keywords": [
     "react-component"
   ],
