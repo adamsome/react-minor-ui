@@ -1,1 +1,1 @@
-export { default } from './Starrate'
+export { default as Starrate } from './Starrate'
