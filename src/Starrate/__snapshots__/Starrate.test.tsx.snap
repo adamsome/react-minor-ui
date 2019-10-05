@@ -1,0 +1,410 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <svg
+    height="1.5rem"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    style={
+      Object {
+        "cursor": "pointer",
+      }
+    }
+    width="1.5rem"
+  >
+    <g
+      style={
+        Object {
+          "opacity": 0,
+          "transition": "opacity 100ms ease-in-out",
+        }
+      }
+      x={-0.2}
+      y={0.9}
+    >
+      <svg
+        viewBox="0 0 512 512"
+      >
+        <circle
+          cx="256"
+          cy="256"
+          fill="currentColor"
+          r="40"
+          strokeWidth="0"
+          transform="inherit"
+          transform-origin="center"
+        />
+      </svg>
+    </g>
+    <g
+      style={
+        Object {
+          "opacity": 1,
+          "transform": "scale(1)",
+          "transformOrigin": "center",
+          "transition": "opacity 200ms ease-in-out, transform 100ms ease-in-out",
+        }
+      }
+    >
+      <svg
+        viewBox="0 0 51 48"
+      >
+        <path
+          d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
+          fill="currentColor"
+          stroke="currentColor"
+        />
+      </svg>
+    </g>
+  </svg>
+  <svg
+    height="1.5rem"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    style={
+      Object {
+        "cursor": "pointer",
+      }
+    }
+    width="1.5rem"
+  >
+    <g
+      style={
+        Object {
+          "opacity": 0,
+          "transition": "opacity 100ms ease-in-out",
+        }
+      }
+      x={-0.2}
+      y={0.9}
+    >
+      <svg
+        viewBox="0 0 512 512"
+      >
+        <circle
+          cx="256"
+          cy="256"
+          fill="currentColor"
+          r="40"
+          strokeWidth="0"
+          transform="inherit"
+          transform-origin="center"
+        />
+      </svg>
+    </g>
+    <g
+      style={
+        Object {
+          "opacity": 1,
+          "transform": "scale(1)",
+          "transformOrigin": "center",
+          "transition": "opacity 200ms ease-in-out, transform 100ms ease-in-out",
+        }
+      }
+    >
+      <svg
+        viewBox="0 0 51 48"
+      >
+        <path
+          d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
+          fill="currentColor"
+          stroke="currentColor"
+        />
+      </svg>
+    </g>
+  </svg>
+  <svg
+    height="1.5rem"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    style={
+      Object {
+        "cursor": "pointer",
+      }
+    }
+    width="1.5rem"
+  >
+    <g
+      style={
+        Object {
+          "opacity": 0,
+          "transition": "opacity 100ms ease-in-out",
+        }
+      }
+      x={-0.2}
+      y={0.9}
+    >
+      <svg
+        viewBox="0 0 512 512"
+      >
+        <circle
+          cx="256"
+          cy="256"
+          fill="currentColor"
+          r="40"
+          strokeWidth="0"
+          transform="inherit"
+          transform-origin="center"
+        />
+      </svg>
+    </g>
+    <g
+      style={
+        Object {
+          "opacity": 1,
+          "transform": "scale(1)",
+          "transformOrigin": "center",
+          "transition": "opacity 200ms ease-in-out, transform 100ms ease-in-out",
+        }
+      }
+    >
+      <svg
+        viewBox="0 0 51 48"
+      >
+        <path
+          d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
+          fill="currentColor"
+          stroke="currentColor"
+        />
+      </svg>
+    </g>
+  </svg>
+  <svg
+    height="1.5rem"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    style={
+      Object {
+        "cursor": "pointer",
+      }
+    }
+    width="1.5rem"
+  >
+    <g
+      style={
+        Object {
+          "opacity": 0,
+          "transition": "opacity 100ms ease-in-out",
+        }
+      }
+      x={-0.2}
+      y={0.9}
+    >
+      <svg
+        viewBox="0 0 512 512"
+      >
+        <circle
+          cx="256"
+          cy="256"
+          fill="currentColor"
+          r="40"
+          strokeWidth="0"
+          transform="inherit"
+          transform-origin="center"
+        />
+      </svg>
+    </g>
+    <g
+      style={
+        Object {
+          "opacity": 0.25,
+          "transform": "scale(1)",
+          "transformOrigin": "center",
+          "transition": "opacity 200ms ease-in-out, transform 100ms ease-in-out",
+        }
+      }
+    >
+      <svg
+        viewBox="0 0 51 48"
+      >
+        <path
+          d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
+          fill="currentColor"
+          stroke="currentColor"
+        />
+      </svg>
+    </g>
+  </svg>
+  <svg
+    height="1.5rem"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    style={
+      Object {
+        "cursor": "pointer",
+      }
+    }
+    width="1.5rem"
+  >
+    <g
+      style={
+        Object {
+          "opacity": 0,
+          "transition": "opacity 100ms ease-in-out",
+        }
+      }
+      x={-0.2}
+      y={0.9}
+    >
+      <svg
+        viewBox="0 0 512 512"
+      >
+        <circle
+          cx="256"
+          cy="256"
+          fill="currentColor"
+          r="40"
+          strokeWidth="0"
+          transform="inherit"
+          transform-origin="center"
+        />
+      </svg>
+    </g>
+    <g
+      style={
+        Object {
+          "opacity": 0.25,
+          "transform": "scale(1)",
+          "transformOrigin": "center",
+          "transition": "opacity 200ms ease-in-out, transform 100ms ease-in-out",
+        }
+      }
+    >
+      <svg
+        viewBox="0 0 51 48"
+      >
+        <path
+          d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
+          fill="currentColor"
+          stroke="currentColor"
+        />
+      </svg>
+    </g>
+  </svg>
+</div>
+`;
+
+exports[`renders unrated correctly 1`] = `
+<div>
+  <svg
+    height="1.5rem"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    style={
+      Object {
+        "cursor": "pointer",
+      }
+    }
+    width="1.5rem"
+  >
+    <g
+      style={
+        Object {
+          "opacity": 0.25,
+          "transition": "opacity 100ms ease-in-out",
+        }
+      }
+      x={-0.2}
+      y={0.9}
+    >
+      <svg
+        viewBox="0 0 512 512"
+      >
+        <circle
+          cx="256"
+          cy="256"
+          fill="currentColor"
+          r="40"
+          strokeWidth="0"
+          transform="inherit"
+          transform-origin="center"
+        />
+      </svg>
+    </g>
+    <g
+      style={
+        Object {
+          "opacity": 0,
+          "transform": "scale(0)",
+          "transformOrigin": "center",
+          "transition": "opacity 200ms ease-in-out, transform 100ms ease-in-out",
+        }
+      }
+    >
+      <svg
+        viewBox="0 0 51 48"
+      >
+        <path
+          d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
+          fill="currentColor"
+          stroke="currentColor"
+        />
+      </svg>
+    </g>
+  </svg>
+  <svg
+    height="1.5rem"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    style={
+      Object {
+        "cursor": "pointer",
+      }
+    }
+    width="1.5rem"
+  >
+    <g
+      style={
+        Object {
+          "opacity": 0.25,
+          "transition": "opacity 100ms ease-in-out",
+        }
+      }
+      x={-0.2}
+      y={0.9}
+    >
+      <svg
+        viewBox="0 0 512 512"
+      >
+        <circle
+          cx="256"
+          cy="256"
+          fill="currentColor"
+          r="40"
+          strokeWidth="0"
+          transform="inherit"
+          transform-origin="center"
+        />
+      </svg>
+    </g>
+    <g
+      style={
+        Object {
+          "opacity": 0,
+          "transform": "scale(0)",
+          "transformOrigin": "center",
+          "transition": "opacity 200ms ease-in-out, transform 100ms ease-in-out",
+        }
+      }
+    >
+      <svg
+        viewBox="0 0 51 48"
+      >
+        <path
+          d="m25,1 6,17h18l-14,11 5,17-15-10-15,10 5-17-14-11h18z"
+          fill="currentColor"
+          stroke="currentColor"
+        />
+      </svg>
+    </g>
+  </svg>
+</div>
+`;

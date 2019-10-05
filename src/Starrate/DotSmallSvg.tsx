@@ -7,7 +7,7 @@ const DotSmallSvg = () => {
         cx="256"
         cy="256"
         r="40"
-        stroke-width="0"
+        strokeWidth="0"
         fill="currentColor"
         transform="inherit"
         transform-origin="center"
