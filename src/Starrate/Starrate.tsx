@@ -57,7 +57,9 @@ const Starrate = (props: StarrateProps) => {
     .map(getStarState)
     .map(createStar)
 
-  return <div style={style}>{stars}</div>
+  return (
+    <div style={{ display: 'flex', flexWrap: 'nowrap', ...style }}>{stars}</div>
+  )
 }
 
 const range = (from: number, to: number) => {
