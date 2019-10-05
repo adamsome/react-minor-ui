@@ -17,6 +17,7 @@
   "scripts": {
     "build": "rollup -c",
     "start": "npm run storybook",
+    "test": "jest --watch",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
     "deploy-storybook": "storybook-to-ghpages"
@@ -46,7 +47,6 @@
     "@types/storybook__addon-storyshots": "^5.1.1",
     "@types/storybook__react": "^4.0.2",
     "awesome-typescript-loader": "^5.2.1",
-    "babel-loader": "^8.0.6",
     "jest": "^24.9.0",
     "prettier": "^1.18.2",
     "react": "^16.10.2",
@@ -55,6 +55,7 @@
     "react-test-renderer": "^16.10.2",
     "rollup": "^1.23.1",
     "rollup-plugin-typescript2": "^0.24.3",
+    "ts-jest": "^24.1.0",
     "tslib": "^1.10.0",
     "tslint": "^5.20.0",
     "tslint-react": "^4.1.0",
