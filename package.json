@@ -2,17 +2,24 @@
   "name": "react-minor-ui",
   "version": "1.0.0",
   "description": "react-minor-ui React component",
-  "main": "lib/index.js",
-  "module": "es/index.js",
+  "author": "",
+  "license": "MIT",
+  "repository": "",
+  "keywords": [
+    "react-component"
+  ],
+  "main": "build/index.cjs.js",
+  "module": "build/index.esm.js",
+  "types": "build/index.d.ts",
   "files": [
-    "css",
-    "es",
-    "lib",
-    "umd"
+    "build"
   ],
   "scripts": {
+    "build": "rollup -c",
+    "start": "npm run storybook",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "deploy-storybook": "storybook-to-ghpages"
   },
   "peerDependencies": {
     "react": "16.x"
@@ -26,6 +33,7 @@
     "@storybook/addon-storyshots": "^5.2.1",
     "@storybook/addons": "^5.2.1",
     "@storybook/react": "^5.2.1",
+    "@storybook/storybook-deployer": "^2.8.1",
     "@types/jest": "^24.0.18",
     "@types/node": "^12.7.11",
     "@types/react": "^16.9.5",
@@ -45,14 +53,11 @@
     "react-docgen-typescript-loader": "^3.3.0",
     "react-dom": "^16.10.2",
     "react-test-renderer": "^16.10.2",
+    "rollup": "^1.23.1",
+    "rollup-plugin-typescript2": "^0.24.3",
+    "tslib": "^1.10.0",
     "tslint": "^5.20.0",
     "tslint-react": "^4.1.0",
     "typescript": "^3.6.3"
-  },
-  "author": "",
-  "license": "MIT",
-  "repository": "",
-  "keywords": [
-    "react-component"
-  ]
+  }
 }
